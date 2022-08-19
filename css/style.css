@@ -19,9 +19,11 @@ p {
 img {
     opacity: 1;
     width: 100%;
-    transition: all 2s;
+    transition: all 1s;
 }
 
 img:hover {
     opacity: 0.4;
+    background-color: yellow;
+    
 }
